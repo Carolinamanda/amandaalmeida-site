@@ -4,7 +4,7 @@ subtitle:
 
 # URL
 url: http://www.amandaalmeida.me
-baseurl: /
+baseurl: ''
 permalink: :title/
 include: ['_pages']
 
@@ -20,4 +20,4 @@ defaults:
       path: ""
       type: "posts"
     values:
-      layout: "post"
+      layout: "blog-post"
