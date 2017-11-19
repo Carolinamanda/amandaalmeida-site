@@ -1,6 +1,6 @@
 ---
 title: 'NOVAS TENDÊNCIAS DO MARKETING'
-cover: /resources/images/tendenciamarketig.png
+cover: /resources/images/Tendenciamarketig.png
 head: /resources/images/post0-1170x500.jpg
 categories: Marketing 
 ---
