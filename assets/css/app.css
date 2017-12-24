@@ -6,3 +6,27 @@
   color:#ccc;
   opacity:1;
 }
+
+.certificado-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.logo-certificado {
+  margin: 0 auto;
+  width: 180px;
+  height: 80px;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+@media (max-width:767px) {
+  .logo-certificado {
+    height: 72px;
+  }
+
+  .certificado-container {
+    flex-direction: column;
+  }
+}
