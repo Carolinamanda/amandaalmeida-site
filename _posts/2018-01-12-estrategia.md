@@ -1,8 +1,8 @@
 ---
-title: 'Saiba quais os 5 primeiros passo para criar uma estratégia de planejamento digital para sua empresa.  '
+title: 'Saiba quais os 5 primeiros passo para criar uma estratégia de planejamento digital para sua empresa'
 cover: /resources/images/Tendenciademarketing.png
-head: /resources/images/Marketingtradicional(1).jpg
-categories: Ferramentas de Marketing 
+head: /resources/images/marketingtradicional.png
+categories: 'Ferramentas de Marketing'
 ---
 O primeiro passo na prestação de serviços em Marketing Digital e começa com verificar o potencial de mercado que o produto ou serviço do seu cliente tem, para saber a maturidade e os pontos fortes e fracos. É preciso entender o mercado digital do seu cliente. Para isso é importante saber como são as buscas pelo produto ou serviço dele na Internet. Desbrave as pala- vras-chaves e confira todas as tendências relacionadas a esses termos. Algumas ferramentas auxiliam esse trabalho: 
 

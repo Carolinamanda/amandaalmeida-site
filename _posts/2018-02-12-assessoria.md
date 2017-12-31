@@ -2,7 +2,7 @@
 title: 'Assessoria de comunicação - o que é e como funciona'
 cover: /resources/images/post0-370x500.jpg
 head: /resources/images/post0-1170x500.jpg
-categories:Assessoria de comunicacao 
+categories: 'Assessoria de comunicacao'
 ---
 Para entender o surgimento das assessorias e do termo comunicação, em seus diversos significados. É preciso esclarecer o meio pelo qual as assessorias funcionam e como podem ser implementadas.As atividades de Assessoria de Imprensa (AI) não devem ser realizadas com base, no improviso, e sim ter como norma a organização e a constante avaliação de resultados. 
       A assessoria de comunicação compreende várias ações voltadas para a consolidação da imagem da instituição perante diferentes públicos. Segundo definição de Jorge Duarte, em seu livro Assessoria de Imprensa e Relacionamento com a Mídia, assessoria de imprensa é “um dos mais importantes serviços da comunicação organizacional. É a gestão de fluxos de informação e relacionamento entre fontes de informação e os jornalistas. Trata-se de atividade que mescla o caráter difusor de notícias, ou de acontecimentos programados, relativos à instituição ou às pessoas físicas, com outro, de recorte mais estratégico, no qual se estabelecem mecanismos de relacionamento e aproximação com os jornalistas.

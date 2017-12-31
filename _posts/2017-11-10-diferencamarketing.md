@@ -1,5 +1,5 @@
 ---
-title: 'Você sabe a diferença entre o Marketing tradicional x Marketing digital? '
+title: 'Você sabe a diferença entre o Marketing tradicional x Marketing digital?'
 cover: /resources/images/Tendenciademarketing.png
 head: /resources/images/marketingtradicional.png
 categories: Marketing 
