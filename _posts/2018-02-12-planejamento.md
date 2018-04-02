@@ -1,6 +1,6 @@
 ---
 title: 'O que é uma planejamento estratégico e como fazer?'
-cover: /resources/images/planejamento.png
+cover: /resources/images/planejamentog.png
 head: /resources/images/planejamentogg.png
 categories: 'Comunicacão e Marketing'
 ---
