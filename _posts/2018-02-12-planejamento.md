@@ -1,10 +1,9 @@
 ---
 title: 'O que é uma planejamento estratégico e como fazer?'
-cover: /resources/images/assessoria.png
-head: /resources/images/assessoriag.png
+cover: /resources/images/planejamento.png
+head: /resources/images/planejamentogg.png
 categories: 'Comunicacão e Marketing'
-—
-
+---
 A maioria dos empresários quando começa um novo negócio não dão importância para a criação de uma estratégia de comunicação. Muitos acham que é perda de tempo ou que ainda não é o momento ideal para isso e acabam focando apenas na captação de clientes ou até mesmo no desenvolvimento das ideias de negócio. E exatamente nesse ponto que muitas empresas falham, os gestores geralmente  tem as perguntas e objetivos para serem alcançados, mas como eles não tem a estratégia definida ou delimitada, se perdem no mar de opções. 
 
 Afinal, se você não sabe qual caminho percorrer para alcançar seus objetivos, torna-se difícil saber como conseguir alcançá-lo. O fato é que o planejamento de estratégico comunicacional é essencial para o sucesso de uma empresa ou qualquer negócio. Pois acredite, sem um plano estratégico, sua empresa pode perder oportunidades, travar seus crescimento e limitar seu sucesso. Já que é exatamente na organização de um planejamento que as ideias começam a ser  esclarecer e tornar forma do que se almeja alcançar e o por quê. Ou seja, um plano estratégico comunicacional é sua bússola é nela que você irá definir o trajeto que quer seguir assim como as estratégias que irá usar.
