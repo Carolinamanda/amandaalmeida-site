@@ -24,9 +24,9 @@ window.Config = {
      */
     introStaticText: "", // Static text
     introTypingTexts: [ // Set of texts to display in Typing Texts module
-        "Consultoria",
-        "Assessoria",
-        "MARKETING DIGITAL"
+        "Produzir",
+        "Informar",
+        "COMPARTILHAR"
     ],
 
     /*
