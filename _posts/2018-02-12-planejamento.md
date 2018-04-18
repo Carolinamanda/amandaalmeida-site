@@ -1,7 +1,7 @@
 ---
 title: 'O que é uma planejamento estratégico e como fazer?'
-cover: /resources/images/planejamentog.png
-head: /resources/images/planejamentogg.png
+cover: /resources/images/planejamento.png
+head: /resources/images/planejamentog.png
 categories: 'Comunicacão e Marketing'
 ---
 A maioria dos empresários quando começa um novo negócio não dão importância para a criação de uma estratégia de comunicação. Muitos acham que é perda de tempo ou que ainda não é o momento ideal para isso e acabam focando apenas na captação de clientes ou até mesmo no desenvolvimento das ideias de negócio. E exatamente nesse ponto que muitas empresas falham, os gestores geralmente  tem as perguntas e objetivos para serem alcançados, mas como eles não tem a estratégia definida ou delimitada, se perdem no mar de opções. 
