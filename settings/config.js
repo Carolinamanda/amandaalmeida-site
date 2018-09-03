@@ -9,7 +9,7 @@ window.Config = {
     */
     preloader:
     {
-        duration: 300, // Default preloader duration in ms
+        duration: 100, // Default preloader duration in ms
     },
 
     /*
@@ -37,7 +37,7 @@ window.Config = {
 
     counters:
     {
-        duration: 3000 // Duration of counting in ms
+        duration: 1000 // Duration of counting in ms
     },
 
 
