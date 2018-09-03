@@ -9,7 +9,7 @@ window.Config = {
     */
     preloader:
     {
-        duration: 100, // Default preloader duration in ms
+        duration: 50, // Default preloader duration in ms
     },
 
     /*
